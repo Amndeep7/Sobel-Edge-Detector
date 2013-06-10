@@ -1,0 +1,12 @@
+#Binaries
+bin/*
+
+#Git
+.gitignore~
+
+#Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
